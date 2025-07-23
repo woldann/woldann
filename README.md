@@ -15,11 +15,15 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-### 🔌 Embedded Hardware I Work With
+### 🔌 Embedded Hardware I Work With:
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-CA1F27?style=flat-square&logo=raspberrypi&logoColor=white)
 ![MSP430](https://img.shields.io/badge/MSP430-555555?style=flat-square)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=flat-square&logo=esphome&logoColor=white)
+
+### 📫 Contact:
+
+[![Email](https://img.shields.io/badge/Email-serkanaksy@proton.me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:serkanaksy@proton.me)
 
 ---
 
